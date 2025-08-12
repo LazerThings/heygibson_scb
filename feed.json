@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Super Construct Bros. Series",
+    "description": "",
+    "home_page_url": "https://scb.heygibson.com",
+    "feed_url": "https://scb.heygibson.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "LazerThings"
+    },
+    "items": [
+        {
+            "id": "https://scb.heygibson.com/super-construct-world.html",
+            "url": "https://scb.heygibson.com/super-construct-world.html",
+            "title": "Super Construct World",
+            "summary": "Coming soon to a Super Mario Construct near you!",
+            "content_html": "<p>Coming soon to a Super Mario Construct near you!</p>",
+            "author": {
+                "name": "LazerThings"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-11T19:15:19-05:00",
+            "date_modified": "2025-08-11T19:15:19-05:00"
+        }
+    ]
+}

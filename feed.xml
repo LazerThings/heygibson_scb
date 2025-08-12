@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Super Construct Bros. Series</title>
+    <link href="https://scb.heygibson.com/feed.xml" rel="self" />
+    <link href="https://scb.heygibson.com" />
+    <updated>2025-08-11T19:15:19-05:00</updated>
+    <author>
+        <name>LazerThings</name>
+    </author>
+    <id>https://scb.heygibson.com</id>
+
+    <entry>
+        <title>Super Construct World</title>
+        <author>
+            <name>LazerThings</name>
+        </author>
+        <link href="https://scb.heygibson.com/super-construct-world.html"/>
+        <id>https://scb.heygibson.com/super-construct-world.html</id>
+
+        <updated>2025-08-11T19:15:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Coming soon to a Super Mario Construct near you!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Coming soon to a Super Mario Construct near you!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
