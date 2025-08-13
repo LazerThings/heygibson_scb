@@ -3,7 +3,7 @@
     <title>Super Construct Bros. Series</title>
     <link href="https://scb.heygibson.com/feed.xml" rel="self" />
     <link href="https://scb.heygibson.com" />
-    <updated>2025-08-11T19:15:19-05:00</updated>
+    <updated>2025-08-13T11:27:56-05:00</updated>
     <author>
         <name>LazerThings</name>
     </author>
@@ -20,12 +20,25 @@
         <updated>2025-08-11T19:15:19-05:00</updated>
             <summary>
                 <![CDATA[
-                    Coming soon to a Super Mario Construct near you!
+                    Super Construct World is the first game in the Super Construct Bros.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Coming soon to a Super Mario Construct near you!</p>
+                <p>Super Construct World is the first game in the Super Construct Bros. series, a Mario fangame series built in the fanmade level editor Super Mario Construct.</p>
+<p>There are 8 worlds, 2 of them being special. You can play through in intended order or freely across the levels. There are 30 levels in total.</p>
+<p>It also has some inside jokes...</p>
+<p>More levels coming soon! Leave a comment of your level code if you'd like it included.</p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1j2i3np2t7">W1: Goldenkiwi Beach</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1j2i3np2t7">W1: Goldenkiwi Beach</h2>
+<p>A beautiful beach filled with kiwis of all kinds. Yet it appears Boom Boom has established an airship here, glooming the skies over the coast.</p>
+<p>1-1 - ???<br>1-2 - ???<br>1-3 - ???<br>1-4 - ???</p>
+<h2>W2: ???</h2>
             ]]>
         </content>
     </entry>
